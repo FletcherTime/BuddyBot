@@ -1,6 +1,6 @@
 # BuddyBot
 
-The goal of this project is to create a Discord bot that can do all of the following:
+The goal of this project is to create a C# Discord bot in .NET Core that can do all of the following:
 1. Process speech as commands
 2. Respond using a synthesized voice
 3. Utilize only open-source, free libraries
