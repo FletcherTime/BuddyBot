@@ -1,0 +1,8 @@
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\bin\Debug\netcoreapp2.0\BuddyBot.deps.json
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\bin\Debug\netcoreapp2.0\BuddyBot.runtimeconfig.json
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\bin\Debug\netcoreapp2.0\BuddyBot.runtimeconfig.dev.json
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\bin\Debug\netcoreapp2.0\BuddyBot.dll
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\obj\Debug\netcoreapp2.0\BuddyBot.csprojAssemblyReference.cache
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\obj\Debug\netcoreapp2.0\BuddyBot.csproj.CoreCompileInputs.cache
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\obj\Debug\netcoreapp2.0\BuddyBot.AssemblyInfoInputs.cache
+C:\Users\Pondus\source\repos\BuddyBot\BuddyBot\obj\Debug\netcoreapp2.0\BuddyBot.AssemblyInfo.cs
